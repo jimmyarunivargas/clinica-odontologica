@@ -1,4 +1,4 @@
-Author: Coditecno.corp
+Author: Jimmy Aruni Vargas
 Proyecto: Sistema de citas clinicos
 Fecha de Lanzamiento: 2018/07/31
 
@@ -12,5 +12,4 @@ Login : http://localhost/lb-admin/
 Usuario: admin
 Password: admin
 
-Dudas y sugerencias a mi whatsapp +591 78201752
-Powered By https://coditecno.com
+Dudas y sugerencias a mi whatsapp +591 77104966
